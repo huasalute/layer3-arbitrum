@@ -7,7 +7,7 @@ from termcolor import cprint
 
 
 min_time = 10 
-max_time = 16
+max_time = 15
 #рандомная задержка от min_time до max_time (в секундах)
 
 
